@@ -6,15 +6,6 @@ This project is a simple Issue Tracker REST API built with Express.js and Fireba
 
 These instructions will help you set up and run the project on your local machine.
 
-### Prerequisites
-
-Before you begin, ensure you have the following software installed:
-
-- [Node.js](https://nodejs.org/) - JavaScript runtime environment
-- [npm](https://www.npmjs.com/) (Node Package Manager) - Comes with Node.js
-- [Firebase Admin SDK](https://firebase.google.com/docs/admin/setup) - Required for Firestore integration
-- [Git](https://git-scm.com/) - Optional for version control
-
 ### Installation
 
 1. Clone the repository to your local machine (if you haven't already):
